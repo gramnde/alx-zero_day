@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 mkdir up_to_date
+=======
+git pull up_to_date
+>>>>>>> d915bfe7a9b815a5caf3ade8abbbdbd9fe38c783
 =======
 git pull up_to_date
 >>>>>>> d915bfe7a9b815a5caf3ade8abbbdbd9fe38c783
